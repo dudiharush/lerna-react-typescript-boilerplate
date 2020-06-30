@@ -2,7 +2,7 @@
   "name": "@dudiharush/react-custom-icon",
   "main": "dist/cjs/index.js",
   "module": "dist/ejs/index.js",
-  "version": "1.0.59",
+  "version": "1.0.60",
   "description": "React Custom Icon uses SVG for the icon content",
   "types": "dist/types/exports/index.d.ts",
   "keywords": [
@@ -12,7 +12,6 @@
     "custom icon",
     "react icon"
   ],
-  "dependencies": {},
   "peerDependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
