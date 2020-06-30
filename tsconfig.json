@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.build.common.json",
+
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react",
+    "paths": {
+      "@dudiharush/react-custom-icon": [
+        "packages/react-custom-icon/src/exports"
+      ]
+    }
+  }
+}
